@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JColangel0
-- 👀 I’m interested in programming games and backend scripts
-- 🌱 I’m currently learning procedural terrain generation
+- 👀 I’m interested in programming applications and computer science theory
+- 🌱 I’m currently learning applications of graph theory in simulations
 - 📫 How to reach me: email me at jdcolangel08@gmail.com
 - [2b || !2b]
 
